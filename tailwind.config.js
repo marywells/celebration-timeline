@@ -5,7 +5,11 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: { float: ['odd', 'even'] },
+    extend: {
+      float: ['odd', 'even'],
+      animation: ['first'],
+      backgroundColor: ['first'],
+    },
   },
   plugins: [],
 };

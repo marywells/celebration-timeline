@@ -1,27 +1,47 @@
 export const allEvents = [
   {
-    title: 'First Event',
-    description:
-      'Two households, both alike in dignity, In fair Verona, where we lay our scene, From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean.',
+    title: 'Birthday Party 🎂',
+    description: 'Heading over to a birthday party on Robinson Road.',
+    time: '',
   },
   {
-    title: 'Second Event',
-    description:
-      'Two households, both alike in dignity, In fair Verona, where we lay our scene, From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean.',
+    title: 'Masked Ball 🎭',
+    description: 'At the haunted house on the hill.',
+    time: '',
   },
   {
-    title: 'Third Event',
-    description:
-      'Two households, both alike in dignity, In fair Verona, where we lay our scene, From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean.',
+    title: 'Cupcake Baking 🧁',
+    description: 'Bring flour, sugar, eggs and sprinkles.',
+    time: '',
   },
   {
-    title: 'Fourth Event',
-    description:
-      'Two households, both alike in dignity, In fair Verona, where we lay our scene, From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean.',
+    title: 'Christmas Carols 🎄',
+    description: 'Visting all the neighbours in the area.',
+    time: '',
   },
   {
-    title: 'Fifth Event',
-    description:
-      'Two households, both alike in dignity, In fair Verona, where we lay our scene, From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean.',
+    title: 'Pool Party 🥽',
+    description: `Don't forget your goggles.`,
+    time: '',
+  },
+  {
+    title: 'Graduation Ball 🎓',
+    description: 'Celebrating finishing your studies!',
+    time: '',
+  },
+  {
+    title: 'Halloween Party 🎃',
+    description: 'Trick or treat...',
+    time: '',
+  },
+  {
+    title: 'Salsa Lessons 💃',
+    description: 'Enchufla, enchufla, enchufla.',
+    time: '',
+  },
+  {
+    title: 'Pizza Making 🍕',
+    description: 'Neapolitan vs Roman, come and learn both!',
+    time: '',
   },
 ];
