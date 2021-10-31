@@ -5,7 +5,7 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
+    extend: { float: ['odd', 'even'] },
   },
   plugins: [],
 };
